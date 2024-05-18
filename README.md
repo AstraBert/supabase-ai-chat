@@ -23,7 +23,7 @@ supabase-ai-chat was built selecting 5000 AI-related news articles from [ai-tech
 
 <h3 align="center">2. Pre-requisites</h3>
 
-<h4 align="center">2a. Supabase</h3>
+<h4 align="center">2a. Supabase</h4>
 
 Before we start building our application, we will need **to access Supabase**: you can head over to [their website](https://supabase.com/) and register through your GitHub account (which is definitely the simplest way to get access to their services).
 
@@ -33,7 +33,7 @@ After Supabase manages all the dependencies of your project, you will notice tha
 
 Now make sure to go to **"Project Settings > Database"** and copy the *Connection String*: store it somewhere, for now, as it will be fundamental to build the application.
 
-<h4 align="center">2b. HuggingFace</h3>
+<h4 align="center">2b. HuggingFace</h4>
 
 In order to get  an [Hugging Face](https://huggingface.co/) account:
 
