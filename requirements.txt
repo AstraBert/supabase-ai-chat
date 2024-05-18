@@ -4,3 +4,6 @@ torch==2.1.2
 gradio_client==0.15.0
 sentence_transformers==2.2.2
 vecs==0.4.3
+python-dotenv==1.0.1
+gradio==4.31.3
+pandas==2.0.3
