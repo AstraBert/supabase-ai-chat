@@ -1,5 +1,17 @@
 <h1 align="center">supabase-ai-chat</h1>
-<h2 align="center">A journalist that nows lots of news about AI!</h2>
+<h2 align="center">A journalist that knows lots of news about AI!</h2>
+
+<div align="center">
+    <img src="https://img.shields.io/github/languages/top/AstraBert/supabase-ai-chat" alt="GitHub top language">
+   <img src="https://img.shields.io/github/commit-activity/t/AstraBert/supabase-ai-chat" alt="GitHub commit activity">
+   <img src="https://img.shields.io/badge/Release-v0.0.0-purple" alt="Static Badge">
+   <img src="https://img.shields.io/badge/Supported_platforms-Windows/Linux/Mac-brown" alt="Static Badge">
+   <div>
+        <a href="https://astrabert.github.io/supabase-ai-chat"><img src="./data/robotjournalist.png"></a>
+        <p><i>This image was generated with <a href="https://pollinations.ai/">Pollinations AI</a> API</i></p>
+   </div>
+</div>
+
 <h3 align="center">1. Introduction</h3>
 **supabase-ai-chat** is natively developed as a Gradio-backed HF space and can be found [here](https://huggingface.co/spaces/as-cle-bert/supabase-ai-chat): it was developed to serve as a knowledgeable assistant in the field of AI news.
 
