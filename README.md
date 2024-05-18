@@ -13,6 +13,7 @@
 </div>
 
 <h3 align="center">1. Introduction</h3>
+
 **supabase-ai-chat** is natively developed as a Gradio-backed HF space and can be found [here](https://huggingface.co/spaces/as-cle-bert/supabase-ai-chat): it was developed to serve as a knowledgeable assistant in the field of AI news.
 
 >*There is also a version built on top of Flowise but it is only a test deployment and, due to security reasons, its access is limited: you can request the access writing an email [to this address](mailto:astra.bertelli01@universitadipavia.it) in which you explain who you are and why you would want to use the application.*
