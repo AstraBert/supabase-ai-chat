@@ -1,3 +1,6 @@
+<head>
+    <link rel="canonical" href="https://coderlegion.com/291/deploy-an-ai-journalist-chatbot-with-gradio-and-supabase" />
+</head>
 <h1 align="center">supabase-ai-chat</h1>
 <h2 align="center">A journalist that knows lots of news about AI!</h2>
 
